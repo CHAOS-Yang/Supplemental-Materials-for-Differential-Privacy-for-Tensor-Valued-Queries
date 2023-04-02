@@ -1,6 +1,6 @@
 # Supplemental-Materials-for-Differential-Privacy-for-Tensor-Valued-Queries
 
-Here we provide the Supplemental Materials for the 
+Here we provide the Supplemental Materials of the detail proof for our paper. 
 This paper is available on IEEE at [this link](https://ieeexplore.ieee.org/document/9456908).
 
 ## Citation
